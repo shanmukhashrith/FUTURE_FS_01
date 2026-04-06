@@ -24,4 +24,4 @@ The portfolio features a custom "Modern Tactical" dark theme utilizing glassmorp
 
 ### Live Deployment
 This project is deployed and hosted live using GitHub Pages.
-* **Live Link:** [Link will be added here once deployed]
+* **Live Link:** (https://shanmukhashrith.github.io/FUTURE_FS_01/)
